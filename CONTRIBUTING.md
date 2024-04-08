@@ -59,6 +59,7 @@ Congratulations :tada::tada: The 5GMETA team thanks you :sparkles:.
 
 Once your PR is merged, your contributions will be publicly visible on the repository.
 
-This contributing guideline are based on this Github docs contributing guideline: https://github.com/github/docs/contribute
+
+This contributing guideline is based on this Github docs contributing guideline: https://github.com/github/docs/contribute
 
 
