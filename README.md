@@ -32,7 +32,7 @@ The Road to Lisbon hackathon webinars are also a great resource:
 
 More info can also be found on the [5GMETA website](https://5gmeta-project.eu/).
 
-### ⚡ 5GMETA platform components
+### ⚡ 5GMETA Platform components
 <!-- table with components, link and one sentence describing component -->
 
 | Repository          | Description                                                                                                                                                                                                                                                                                                                            |
